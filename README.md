@@ -1,4 +1,4 @@
-## Tinekerhub gecw web mentoring ```ROOT MAP ```
+## Tinkerhub gecw web mentoring ```ROOT MAP ```
 
 ### Introduction Version Control to git and github w1
 1. What is Version Control
