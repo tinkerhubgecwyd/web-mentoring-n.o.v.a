@@ -5,7 +5,7 @@
 2. [What is git?](https://youtu.be/2ReR1YJrNOM)
     - introduction to git Version Control
     - [installation](https://youtu.be/E6-YSidPCu0)
-    - on hand projects
+    - Hand-on projects
     - [working with git](https://youtu.be/b5oQZdzA37I)
         - ```git init``` 
         - ```git clone```
