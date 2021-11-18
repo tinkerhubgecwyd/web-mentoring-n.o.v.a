@@ -18,6 +18,7 @@
       
 3. How To Use Github
     - introduction
+    - team collaboration
    
 
 ### Introduction To Front End Development w2 - w3
