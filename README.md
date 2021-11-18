@@ -3,7 +3,7 @@
 ### Introduction Version Control to git and github w1
 1. What is Version Control
 2. What is git?
-    - [introduction to git Version Control](https://nova.tinkerhubgecwayanad.tech/#about)
+    - introduction to git Version Control
     - installation
     - on hand projects
     - working with git
@@ -24,25 +24,25 @@
 ### Introduction To Front End Development w2 - w3
 
 1. introduction To frontend Developement
-2. [Design with figma](https://nova.tinkerhubgecwayanad.tech/#about)
+2. Design with figma
     - introduction
     - Hand-on mini Design Project
-3. [introduction To JavaScript](https://nova.tinkerhubgecwayanad.tech/#about)
+3. introduction To JavaScript
     - basics Concepts
     - hands-on project
-4. [introduction to NodeJS](https://nova.tinkerhubgecwayanad.tech/#about)
+4. introduction to NodeJS
 5. introduction To frameworks
-6. [introdution to React js](https://nova.tinkerhubgecwayanad.tech/#about)
+6. introdution to React js
 7. introduction to Express js
     
     
 ### Introduction To Backend Development w4
 
 1. Introduction To Backend Development
-2. [Introduction To Rest Api](https://nova.tinkerhubgecwayanad.tech/#about)
+2. Introduction To Rest Api
 3. Introduction To Database
    - Introduction To MYSQL and SQL Databases
-   - [Introduction To Firebase](https://nova.tinkerhubgecwayanad.tech/#about)
+   - Introduction To Firebase
       - introduction To Firestore Database
       - hands-on projects
    - Introduction To MongoDB
