@@ -3,7 +3,7 @@
 ### Introduction Version Control to git and github w1
 1. What is Version Control
 2. What is git?
-    - introduction to git Version Control
+    - [introduction to git Version Control](https://github.com/arunthacharuthodi)
     - installation
     - on hand projects
     - working with git
@@ -24,13 +24,16 @@
 ### Introduction To Front End Development w2 - w3
 
 1. introduction To frontend Developement
-2. introduction To JavaScript
+2. [Design with figma](https://github.com/arunthacharuthodi)
+    - introduction
+    - Hand-on mini Design Project
+3. introduction To JavaScript
     - basics Concepts
-    - hands-on projects
-3. introduction to NodeJS
-4. introduction To frameworks
-3.introdution to React js
-5. introduction to Express js
+    - hands-on project
+4. introduction to NodeJS
+5. introduction To frameworks
+6.introdution to React js
+7. introduction to Express js
     
     
 ### Introduction To Backend Development w4
